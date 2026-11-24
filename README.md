@@ -44,7 +44,7 @@ I love turning random ideas into little projects, experimenting with code, creat
 
 <p align="center">
   <img
-    src="GCV-Screenshots/GCV-6.png"
+    src="GCV 6.png"
     width="100%"
     alt="Gacha Code Vaults home page showing two saved characters"
   >
@@ -65,31 +65,31 @@ I love turning random ideas into little projects, experimenting with code, creat
 <details>
   <summary>🏡 Home Page Overview</summary>
   <br>
-  <img src="GCV-Screenshots/GCV-1.png" width="100%" alt="Home page overview">
+  <img src="GCV 1.png" width="100%" alt="Home page overview">
 </details>
 
 <details>
   <summary>🎨 Explore the Five Themes</summary>
   <br>
-  <img src="GCV-Screenshots/GCV-2.png" width="100%" alt="Five available themes">
+  <img src="GCV 2.png" width="100%" alt="Five available themes">
 </details>
 
 <details>
   <summary>💾 Storage and JSON Backups</summary>
   <br>
-  <img src="GCV-Screenshots/GCV-3.png" width="100%" alt="Storage and backup options">
+  <img src="GCV 3.png" width="100%" alt="Storage and backup options">
 </details>
 
 <details>
   <summary>📝 Saving a Character</summary>
   <br>
-  <img src="GCV-Screenshots/GCV-4.png" width="100%" alt="Character saving form">
+  <img src="GCV 4.png" width="100%" alt="Character saving form">
 </details>
 
 <details>
   <summary>🃏 Character Cards and Management</summary>
   <br>
-  <img src="GCV-Screenshots/GCV-5.png" width="100%" alt="Saved character card">
+  <img src="GCV 5.png" width="100%" alt="Saved character card">
 </details>
 
 ---
