@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="MilkShake038’s Cozy Developer Café.png" width="100%" alt="MilkShake038 Lavender Café Banner">
+</div>
 
 <div align="center">
 
