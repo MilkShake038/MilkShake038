@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 💜 MilkShake038's Little Corner
+# 💜 The MilkShake's Little Corner
 
 ### ୨୧ Hello, my fellow shakes! ♡
 
