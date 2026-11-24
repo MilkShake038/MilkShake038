@@ -34,15 +34,71 @@ I love turning random ideas into little projects, experimenting with code, creat
 
 <div align="center">
 
-### 💾 Gacha Code Vaults
 
-*A little home for organising and managing Gacha character codes.*
+<h3 align="center">💜 Gacha Code Vaults</h3>
 
-[**Visit the application →**](https://milkshake038.github.io/Gacha-Code-Vaults/)
+<p align="center">
+  A little home for organising, saving, and managing
+  your Gacha character codes!
+</p>
 
-[View source code](https://github.com/MilkShake038/Gacha-Code-Vaults)
+<p align="center">
+  <img
+    src="GCV-Screenshots/GCV-6.png"
+    width="100%"
+    alt="Gacha Code Vaults home page showing two saved characters"
+  >
+</p>
 
-**Status:** 🟢 Published and live!
+<p align="center">
+  <a href="https://milkshake038.github.io/Gacha-Code-Vaults/">
+    <strong>🌷 Open the Live Application</strong>
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/MilkShake038/Gacha-Code-Vaults">
+    View Source Code
+  </a>
+</p>
+
+---
+
+<details>
+  <summary>🏡 Home Page Overview</summary>
+  <br>
+  <img src="GCV-Screenshots/GCV-1.png" width="100%" alt="Home page overview">
+</details>
+
+<details>
+  <summary>🎨 Explore the Five Themes</summary>
+  <br>
+  <img src="GCV-Screenshots/GCV-2.png" width="100%" alt="Five available themes">
+</details>
+
+<details>
+  <summary>💾 Storage and JSON Backups</summary>
+  <br>
+  <img src="GCV-Screenshots/GCV-3.png" width="100%" alt="Storage and backup options">
+</details>
+
+<details>
+  <summary>📝 Saving a Character</summary>
+  <br>
+  <img src="GCV-Screenshots/GCV-4.png" width="100%" alt="Character saving form">
+</details>
+
+<details>
+  <summary>🃏 Character Cards and Management</summary>
+  <br>
+  <img src="GCV-Screenshots/GCV-5.png" width="100%" alt="Saved character card">
+</details>
+
+---
+
+<p align="center">
+  <em>Organise your characters, keep your codes safe,
+  and make your own little collection. ♡</em>
+</p>
+
 
 ---
 
