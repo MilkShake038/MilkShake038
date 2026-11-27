@@ -33,9 +33,8 @@ I love turning random ideas into little projects, experimenting with code, creat
 ## 🌸 My Little Projects
 
 <div align="center">
-
-
-<h3 align="center">💜 Gacha Code Vaults</h3>
+  
+  <h3 align="center">💜 Gacha Code Vaults</h3>
 
 <p align="center">
   A little home for organising, saving, and managing
@@ -99,7 +98,68 @@ I love turning random ideas into little projects, experimenting with code, creat
   and make your own little collection. ♡</em>
 </p>
 
+---
+---
 
+<h3 align="center">🎬 Watchlist Tracker</h3>
+
+<p align="center">
+  A little home for organising, saving, and managing
+  your shows!
+</p>
+
+<p align="center">
+  <img
+    src="WT 1.png"
+    width="100%"
+    alt="Watchlist Tracker homepage with example saved shows"
+  >
+</p>
+
+<p align="center">
+  <a href="https://milkshake038.github.io/Watchlist-Tracker/">
+    <strong>🌷 Open the Live Application</strong>
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/MilkShake038/Watchlist-Tracker">
+    View Source Code
+  </a>
+</p>
+
+---
+
+<details>
+  <summary>🎨 Explore the Six Themes and watch status customizer</summary>
+  <br>
+  <img src="WT 4.png" width="100%" alt="Six available themes">
+</details>
+
+<details>
+  <summary>💾 Cards sorting and filters</summary>
+  <br>
+  <img src="WT 5.png" width="100%" alt="Filters and sorter">
+</details>
+
+<details>
+  <summary>📝 Saving a Show Card</summary>
+  <br>
+  <img src="WT 2.png" width="100%" alt="Character saving form">
+</details>
+
+<details>
+  <summary>🃏 More options while saving a card</summary>
+  <br>
+  <img src="WT 3.png" width="100%" alt="More options while saving a show card">
+</details>
+
+---
+
+<p align="center">
+  <em>Organise your shows, keep your watchlist tidy (for once),
+  and make your own little collection. ♡</em>
+</p>
+
+---
 ---
 
 ### ???
